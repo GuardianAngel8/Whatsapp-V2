@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="Team Virtual" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="TEAM VIRTUAL MD" src="https://img.shields.io/badge/TEAM VIRTUAL MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
