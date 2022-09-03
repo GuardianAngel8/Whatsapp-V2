@@ -26,8 +26,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "PutraSkyz" //namabot kalian
-global.ownername= "Putra Skyz" //nama kalian
+global.botname = "Putra-Skyz" //namabot kalian
+global.ownername= "PutraSkyz" //nama kalian
 global.myweb ="https://github.com/TeamVirtual-Skyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/KimiHime" //bebas asal jan hapus
 global.myweb2 = "https://github.com/TeamVirtual-Skyz" //bebas
@@ -42,8 +42,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/31d9b2ecf5cd43b44ed13.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/487c8044c22bd0805cbe5.mp4'
-global.packname = '© Putra Skyz' //sticker wm ubah
-global.author = 'Di Buat Oleh PutraSkyz' //sticker wm ganti nama kalian
+global.packname = '© Putra-Skyz' //sticker wm ubah
+global.author = 'Di Buat Oleh Putra-Skyz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
