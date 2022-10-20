@@ -4,10 +4,10 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="TEAM VIRTUAL MD" src="https://img.shields.io/badge/TEAM VIRTUAL MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="OLD VERSION COCOBOT" src="https://img.shields.io/badge/COCOBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-COCOBOT-TOD.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
